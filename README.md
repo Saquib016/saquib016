@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Saquib 👋
 
-<!--
-**Saquib016/saquib016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* C++
+* Data Structures & Algorithms
+* Machine Learning
+* Deep Learning
+* SQL
+* Git & GitHub
+
+## Currently Working On
+
+* AI Interview Platform (Rizq AI)
+* Machine Learning Projects
+* DSA & Competitive Programming
+
+## Interests
+
+* Artificial Intelligence
+* Generative AI
+* Problem Solving
+* Software Engineering
+
+## Contact
+
+Messeege me on Linkdin: https://www.linkedin.com/in/saquib-salim-kidwai-003036336/
+
+"Always learning, always building."
