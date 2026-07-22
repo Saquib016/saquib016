@@ -169,33 +169,24 @@
 
 ---
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saquib016&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saquib016&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Saquib016&theme=github-dark-blue&hide_border=true"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saquib016&theme=github-dark&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saquib016&theme=darkhub&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saquib016&style=for-the-badge&color=blue"/>
 </p>
-# 📫 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/saquib-salim-kidwai-003036336/
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saquib016/Saquib016/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/saquib-salim-kidwai-003036336/
 
 > **"Always learning. Always building. Always improving."** 🚀
