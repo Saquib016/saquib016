@@ -180,7 +180,7 @@ https://www.linkedin.com/in/saquib-salim-kidwai-003036336/
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saquib016/saquib016/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Saquib016/Saquib016/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
