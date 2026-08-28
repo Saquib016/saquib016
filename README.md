@@ -172,14 +172,15 @@
   <img src="https://streak-stats.demolab.com?user=Saquib016&theme=github-dark-blue&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saquib016&theme=github-dark&hide_border=true"/>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saquib016&style=for-the-badge&color=blue"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saquib016/Saquib016/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saquib016/Saquib016/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saquib016/Saquib016/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Saquib016/Saquib016/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
